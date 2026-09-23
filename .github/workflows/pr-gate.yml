@@ -1,3 +1,4 @@
+name: PR gate
 on:
    pull_request:
     branches: [main]
